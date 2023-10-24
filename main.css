@@ -1283,6 +1283,10 @@ input:checked + .toggle-bg {
   height: 24rem;
 }
 
+.h-128 {
+  height: 36rem;
+}
+
 .h-full {
   height: 100%;
 }
@@ -2592,6 +2596,10 @@ input:checked + .toggle-bg {
 
   .md\:h-96 {
     height: 24rem;
+  }
+
+  .md\:h-128 {
+    height: 36rem;
   }
 
   .md\:h-auto {
